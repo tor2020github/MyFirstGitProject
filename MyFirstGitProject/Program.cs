@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 正式版v1.0.0.0
+/// </summary>
 namespace MyFirstGitProject
 {
     class Program
