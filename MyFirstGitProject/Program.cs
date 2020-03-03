@@ -11,6 +11,7 @@ namespace MyFirstGitProject
         static void Main(string[] args)
         {
             var Tom = new Cat() { Id = 1, Name = "Tom", Color = "蓝色", Age = 1 };
+            //TODO这里是新功能
             Console.WriteLine(Tom.ToString());
             Console.ReadLine();
         }
