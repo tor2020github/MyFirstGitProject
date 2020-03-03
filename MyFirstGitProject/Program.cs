@@ -10,6 +10,8 @@ namespace MyFirstGitProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("我的第一个Git项目");
+            Console.ReadLine();
         }
     }
 }
