@@ -10,7 +10,7 @@ namespace MyFirstGitProject
     {
         static void Main(string[] args)
         {
-            var Tom = new Cat() { Id = 1, Name = "Tom" };
+            var Tom = new Cat() { Id = 1, Name = "Tom", Color = "蓝色" };
             Console.WriteLine(Tom.ToString());
             Console.ReadLine();
         }
